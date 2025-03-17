@@ -1,4 +1,4 @@
-# Generación de contraseña y código QR
+# Generación de contraseña y código QR - 🔒PassQR
 
 ## Etapas y Pasos para el Desarrollo
 🧠 **Fase 1:** Planificación
