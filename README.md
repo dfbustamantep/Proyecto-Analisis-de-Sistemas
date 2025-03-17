@@ -36,6 +36,12 @@ Publicar la aplicación y recopilar retroalimentación de los usuarios.
 - HTML
 - CSS
 
+## Diagrama de clases provisional
+https://app.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&dark=auto#Hdaniloperama2006/DIAGRAMAS-UML/main/passQR.drawio#%7B%22pageId%22%3A%22M7D9m38PPlm3G9aFiNpY%22%7D
+
+![image](https://github.com/user-attachments/assets/7e7a911b-d0d4-4d12-a3fb-467bab5a6efc)
+
+
 
 ##  Instalación  
 
