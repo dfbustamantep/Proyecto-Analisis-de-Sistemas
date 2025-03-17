@@ -29,3 +29,13 @@ Asegurar que los datos no se exponen en las respuestas del backend.
 Configurar Docker para facilitar el despliegue.
 Realizar monitoreo continuo para detectar vulnerabilidades.
 Publicar la aplicación y recopilar retroalimentación de los usuarios.
+
+## 🚀 Tecnologías utilizadas  
+- Python
+- Flask
+- HTML
+- CSS
+
+
+##  Instalación  
+
