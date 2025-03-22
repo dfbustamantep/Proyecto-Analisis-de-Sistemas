@@ -44,4 +44,9 @@ https://app.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&la
 
 
 ##  Instalación  
+1.Clonar el repositorio
+```
+git clone git@github.com:dfbustamantep/Proyecto-Analisis-de-Sistemas.git
+cd Proyecto-Analisis-de-Sistemas
 
+```
